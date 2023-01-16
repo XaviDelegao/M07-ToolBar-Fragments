@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="button">Iniciar sesion</string>
+    <string name="profile_name">Xavier Rodriguez</string>
+    <string name="mail">xavi.roza@example.com</string>
+    <string name="title_toolbar">Perfil de usuario</string>
+    <string name="title_toolbar1">Menu Principal</string>
+    <string name="AutoInsciption">Auto Inscipcion (deberas rellenar aun asi tu nacion en cada inscripcion)</string>
+    <string name="volume">Volumen</string>
+    <string-array name="language_options">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Alemán</item>
+    </string-array>
+    <string name="language_prompt">Selecciona un lenguaje</string>
+    <string name="settings_title">Opciones</string>
+    <string name="save_button_text">Guardar</string>
+    <string name="tournament_history">Historial de Torneos</string>
+    <string name="search_tournaments">Busqueda de torneos</string>
+    <string name="search_confirm">Buscar</string>
+</resources>
