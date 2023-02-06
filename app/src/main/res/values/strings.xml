@@ -19,4 +19,8 @@
     <string name="tournament_history">Historial de Torneos</string>
     <string name="search_tournaments">Busqueda de torneos</string>
     <string name="search_confirm">Buscar</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
